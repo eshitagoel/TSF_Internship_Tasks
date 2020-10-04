@@ -3,3 +3,4 @@ This repository holds the various tasks that I worked on during my internship wi
 <b>Tasks:</b> <br>
 1. Linear Regression<br>
 2. K-Means Clustering<br>
+3. Decision Tree Algorithm
